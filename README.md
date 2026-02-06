@@ -27,5 +27,4 @@ python calculator.py
 
 ## Author
 SUNIL
-Sunil Gupta
 
